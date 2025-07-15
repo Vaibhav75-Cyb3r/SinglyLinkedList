@@ -29,7 +29,7 @@ The implementation consists of:
 ## 🛠 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/github00807/SinglyLinkedList.git
+   git clone https://github.com/Vaibhav75-Cyb3r/SinglyLinkedList.git
 
 2. Navigate into the project directory:
    cd your-repo-name
